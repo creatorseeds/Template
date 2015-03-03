@@ -1,0 +1,10 @@
+# Files
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.TMP
+*Thumbs.db
+*sftp-config.json
+
+# Folders
+*.sass-cache/
