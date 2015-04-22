@@ -1,7 +1,9 @@
-# Files
+# Ignore unneeded files.
 *.DS_Store
 *.sublime-project
 *.sublime-workspace
+*.swp
+*~
 *.TMP
 *Thumbs.db
 *sftp-config.json
